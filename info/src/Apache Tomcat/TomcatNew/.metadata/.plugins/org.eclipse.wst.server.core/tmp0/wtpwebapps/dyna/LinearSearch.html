@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<script>
+
+var a=[54, 28, 9, 80, 47, 71, 10, 24,45];
+var val=71;
+var n=a.length;
+
+ function linearSearch(a,n,val){
+for (var i=0;i<n;i++)
+{
+if(a[i]==val)
+return i+1;
+}
+return -1;
+ }
+ var res=linearSearch(a,n,val);
+ document.write("The elements of the array are: \n ");
+ 
+ for(i=0;i<n;i++)
+document.write(" "+a[i]);
+     
+    document.write("<br>"+"Element to be searched is : "+val);
+    if(res==-1)
+      document.write("<br>"+"Element is not present in the array : \n");
+     else
+      document.write("<br>"+"Element is present at " + res + " position of array.");
+</script>
+
+
+</body>
+</html>

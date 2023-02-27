@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Shri Ram</title>
+</head>
+<body>
+<script></script>
+  var a = [54, 26, 9, 80, 47, 71, 10, 24, 45];//given array
+  var val = 71;//value to be searched
+  var n = a.length;//size of array
+  
+  function linearSearch(a, n, val){
+  //Going through array sequentially
+  for(var i = 0; i < n; i++)
+  {
+  if(a[i]==val)
+  return i+1;
+  }
+  return -1
+  }
+  </script>
+ </body>
+</html>

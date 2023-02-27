@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Shri Ram</title>
+</head>
+<body>
+  var a = [54, 26, 9, 80, 47, 71, 10, 24, 45];//given array
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="OWN PRACTISE/Work/src/|Apache Tomcat/dyna/src/main/java/|Apache Tomcat/TomcatNew/work/src/|Apache Tomcat/work1/src/|OWN PRACTISE/|SearchSort/|QueueNewJava/SearchSort/|QueueNewJava/SearchSort/" kind="src" path=""/>
+	<classpathentry kind="src" path="Apache Tomcat/dyna/src/main/java"/>
+	<classpathentry kind="src" path="Apache Tomcat/TomcatNew/work/src"/>
+	<classpathentry kind="src" path="Apache Tomcat/work1/src"/>
+	<classpathentry excluding="Work/src/" kind="src" path="OWN PRACTISE"/>
+	<classpathentry kind="src" path="OWN PRACTISE/Work/src"/>
+	<classpathentry kind="src" path="SearchSort"/>
+	<classpathentry kind="src" path="QueueNewJava/SearchSort"/>
+	<classpathentry kind="output" path="Apache Tomcat/TomcatNew/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/dyna/WEB-INF/classes"/>
+</classpath>

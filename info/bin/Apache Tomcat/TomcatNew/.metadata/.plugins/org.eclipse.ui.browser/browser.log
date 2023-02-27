@@ -1,0 +1,12 @@
+
+Feb 22, 2023 11:55:17.97 NEW SESSION
+Feb 22, 2023 11:55:17.97 [26292:21176:0222/115517.093:ERROR:device_event_log_impl.cc(218)] [11:55:17.090] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Feb 22, 2023 11:55:17.101 [26292:21176:0222/115517.100:ERROR:device_event_log_impl.cc(218)] [11:55:17.100] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:55:04.775 [26292:21176:0222/125504.775:ERROR:device_event_log_impl.cc(218)] [12:55:04.766] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 22, 2023 14:58:00.926 [26292:21176:0222/145800.922:ERROR:device_event_log_impl.cc(218)] [14:58:00.922] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 22, 2023 18:53:12.934 [26292:21176:0222/185312.934:ERROR:device_event_log_impl.cc(218)] [18:53:12.897] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 22, 2023 18:53:54.799 [26292:21176:0222/185354.798:ERROR:device_event_log_impl.cc(218)] [18:53:54.796] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 22, 2023 18:53:54.828 [26292:21176:0222/185354.827:ERROR:device_event_log_impl.cc(218)] [18:53:54.826] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 22, 2023 19:21:39.39 [26292:21176:0222/192139.037:ERROR:device_event_log_impl.cc(218)] [19:21:39.038] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 22, 2023 21:14:46.845 [26292:16556:0222/211445.931:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 22, 2023 21:54:58.964 [26292:21176:0222/215458.961:ERROR:device_event_log_impl.cc(218)] [21:54:58.961] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
